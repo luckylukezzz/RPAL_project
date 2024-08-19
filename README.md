@@ -21,5 +21,5 @@ It processes an RPAL program by constructing an abstract syntax tree (AST), stan
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rpal-interpreter.git
+   git clone https://github.com/luckylukezzz/RPAL_project.git
    cd rpal-interpreter
